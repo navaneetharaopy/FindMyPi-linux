@@ -6,4 +6,4 @@ run following commnads
   cd FindMyPi-linux
   unzip FindMyPi
   ```
-  doubble click app.sh 
+  double click app.sh 
